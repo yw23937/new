@@ -1,0 +1,55 @@
+---
+title: "PP Experience --- Metabase"
+author: "Yi Wang"
+date: "12/4/2019"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Metabase 
+### Introduction
+ - A more convenient data visualization software for users without knowing the knowleage of SQL.
+ - Rich beautiful dashboard
+ - Chat platform for users
+
+
+## Metabase
+### Introduction
+
+
+![](dashboard.PNG)
+
+ 
+## Metabase - Contribution
+### README.md
+![](readzhong.PNG)
+<style>
+  img{
+      width:700px;
+  
+    }
+body
+  {
+	background-color:#77DDFF;
+  }
+</style>
+
+## Metabase - Contribution
+### Contribution Guide
+![](conzhong.PNG)
+
+
+
+
+## Failure
+![](fail.PNG)
+
+
+
